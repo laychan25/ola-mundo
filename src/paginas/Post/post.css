@@ -17,8 +17,8 @@
 
 .post-markdown-container p {
     text-align: justify;
-    font-size: 1.5rem;
-    line-height: 2.25rem;
+    font-size: 2rem;
+    line-height: 2rem;
     margin-bottom: 1.5rem;
 }
 
@@ -60,6 +60,7 @@
 }
 
 @media (max-width: 744px) {
+
     .post-markdown-container h3 {
         font-size: 1.5rem;
         line-height: 2rem;
@@ -69,5 +70,12 @@
     .post-markdown-container p {
         font-size: 1rem;
         line-height: 1.75rem;
+        
+    }
+
+    .post-markdown-container img{
+        width: 45vh;
+        padding: 1rem
+        
     }
 }
