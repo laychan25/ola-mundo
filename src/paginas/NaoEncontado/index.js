@@ -10,13 +10,13 @@ export default function NaoEncontado(){
         <>
         <div className={styles.conteudoContainer}>
             <span className={styles.texto404}>404</span>
-            <h1 className={styles.titulo}>Ops pagina nao encontada</h1>
+            <h1 className={styles.titulo}>Ops pagina nao encontrada</h1>
 
            <p className={styles.paragrafo}>
             Tem certeza que era isso que estava procurando ?
 
            </p>
-           <p className={styles.paragrafo}>  Aguarde uns instante e recaregue a pagina, ou volte para a pagina inicial</p>
+           <p className={styles.paragrafo}>  Aguarde uns instantes e recaregue a pagina, ou volte para a pagina inicial</p>
 
            <div
              onClick={()=> navegar(-1)}

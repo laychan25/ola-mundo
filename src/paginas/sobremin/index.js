@@ -40,7 +40,7 @@ export default function Sobremim() {
         vídeos de um youtuber que gosto muito ‘’Gemaplys’’ ele fazia alguns
         vídeos fazendo jogos do zero e isso me encantava, criar algo do
         absolutamente nada me parecia incrível. E foi assim que comecei a
-        estudar na Alura, estou no momento estudando Front end., estou
+        estudar na Alura, estou no momento estudando Front end. Estou
         aprendendo Javascript, html, css e React que é justamente o porquê estou
         fazendo esse site kkkk faz parte da aula, mas também achei legal a ideia
         de um “blog”.

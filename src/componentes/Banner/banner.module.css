@@ -32,6 +32,7 @@
     bottom: 0;
     width: 18vw;
     border-radius: 50%;
+   
 }
  
 .imagens > .circuloColorido {
@@ -61,6 +62,7 @@
    
     .imagens > .minhaFoto {
         width: 25vw;
+       margin: 50px;
     }
    
     .imagens > .circuloColorido {
@@ -95,7 +97,7 @@
    
     .imagens > .minhaFoto {
         width: 170px;
-        transform: translate(5rem, 0px);
+       
     }
    
     .imagens > .circuloColorido {

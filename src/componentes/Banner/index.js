@@ -8,7 +8,7 @@ export default function Banner() {
         <h1 className={styles.titulo}>Olá, Mundo!</h1>
 
         <p className={styles.paragrafo}>
-          Ola, Sou a lay tenho 20 anos, aqui ira encontar diversar coisas como
+          Ola, Sou a lay tenho 20 anos. Aqui ira encontrar diversas coisas como
           poemas, desenhos e indicaçoes de filmes e animes
         </p>
       </div>
